@@ -1,0 +1,11 @@
+# ImagePDF Tool
+
+ImagePDF 是一个简单易用的工具，支持：
+1. 将图片转换为 PDF。
+2. 合并图片和现有 PDF 为单个 PDF。
+
+## 使用方法
+
+### 1. 安装依赖
+```bash
+go mod tidy
